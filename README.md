@@ -10,3 +10,6 @@ The Dropbox API allows developers to work with files in Dropbox, including advan
 
 # My Apps
 @link: https://www.dropbox.com/developers/apps
+
+# PI v1 → v2 Migration guide
+@link: https://www.dropbox.com/developers/reference/migration-guide
